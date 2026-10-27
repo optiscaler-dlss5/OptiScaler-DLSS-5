@@ -1,0 +1,4 @@
+USAGE OptiScaler-DLSS-5
+optiscaler overlay. fsr framegen. fakenvapi.
+Extract. Run. See readme.
+Stamp rev-v8rm9t-20261027
